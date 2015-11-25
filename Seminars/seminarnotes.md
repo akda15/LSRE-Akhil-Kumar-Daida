@@ -5,14 +5,13 @@ SEMINAR 0
 3.	What is the order of magnitude of the number of requirements we are discussing?
 4.	Read up on and summarize [Strategic] Release Planning
 
-
-1.	Large Scale Requirements Engineering:
+Large Scale Requirements Engineering:
 Requirements engineering addresses the critical problem of designing the right software for the customer. The complexity and size of software intense systems continues to grow, which in turn gives increasingly large and complex sets of requirements. As a result, the size and complexity of the requirements databases grow even faster than the size and complexity of actual software products. This situation is named Large-Scale Requirements Engineering (LSRE).
 Large companies often manage thousands of requirements continuously arriving from multiple sources. These requirements are often inter-related and originate from an increasing number of customers, end users, developers, subcontractors, product features, and external system interfaces. This context is defined as very large-scale RE (VLSRE).
 
 Article: “Visualizing, Analyzing and Managing the Scope of Software Releases in Large-Scale Requirements Engineering”
 
-2.	Challenges of LSRE:
+Challenges of LSRE:
 • Large number of customer requirements: A large number of customer requirements posed challenges for analyzing, specifying, and managing requirements.
 • Formal interface to customer: Communication with the customer will be formal, meaning that official submittal and review processes had to be followed on most issues. This level of formality greatly increased the time required to receive feedback and clarifications from the customer.
 • Management of customer expectations: Since it will be a large and complex system, early prototypes of the system will be shown to the customer, expectations of the customer on how far development had already progressed needed to be properly managed.
@@ -21,7 +20,7 @@ Article: “Visualizing, Analyzing and Managing the Scope of Software Releases i
 
 Article: “Requirements Engineering in the Development of Large-Scale Systems”
 
-3.	Order of magnitude of requirements:
+Order of magnitude of requirements:
 Abbrev	level	Order of magnitude
 SSRE	  Small Scale Requirements engineering	10 requirements
 MSRE	  Medium Scale Requirements Engineering	100 
@@ -31,7 +30,7 @@ VLSRE	  Very Large Scale Requirements Engineering	10000 requirements
 
 Article: “Can We Beat the Complexity of Very Large-Scale Requirements Engineering?”
 
-4.	Release Planning:
+Release Planning:
 Release planning could be described as selecting an optimal subset of requirements for realization in a certain release. Release planning is where requirements engineering for market-driven software product development meets the market perspective. It determines which customer gets what features and quality at what point in time. The selection task is normally preceded by requirements prioritization, which has received increasing interest in recent years [1, 2], and resource estimation, which has been an issue within software engineering since its origins. Once this is done it may seem to be a fairly straightforward task to select requirements from the priority list until the total estimate equals the available resources.
 
 Article: “Release Planning in Market-Driven Software Product Development: Provoking an Understanding”
