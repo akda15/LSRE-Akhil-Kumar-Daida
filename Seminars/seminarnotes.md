@@ -4,7 +4,8 @@ SEMINAR 0
 2.	What are the challenges in large scale requirements engineering?
 3.	What is the order of magnitude of the number of requirements we are discussing?
 4.	Read up on and summarize [Strategic] Release Planning
-	
+
+
 1.	Large Scale Requirements Engineering:
 Requirements engineering addresses the critical problem of designing the right software for the customer. The complexity and size of software intense systems continues to grow, which in turn gives increasingly large and complex sets of requirements. As a result, the size and complexity of the requirements databases grow even faster than the size and complexity of actual software products. This situation is named Large-Scale Requirements Engineering (LSRE).
 Large companies often manage thousands of requirements continuously arriving from multiple sources. These requirements are often inter-related and originate from an increasing number of customers, end users, developers, subcontractors, product features, and external system interfaces. This context is defined as very large-scale RE (VLSRE).
