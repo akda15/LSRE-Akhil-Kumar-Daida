@@ -27,7 +27,7 @@ In the early requirements triage there will be three steps for creating initial 
 Step 1: Specify
 To specify the directions of movement for the product deduced from the organization’s mission statement. In this step the finding solutions to the three strategic questions is done. Where we want to go?,(2) How to get there?, (3) What will be done?) for each product.
 Step 2: Assign weights
-The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 (Table 1) and the total weight of the three questions is 300. The rule is to assign weights to each of the factors based on their relative importance in a way that total weight remains 100.
+The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 and the total weight of the three questions is 300. The rule is to assign weights to each of the factors based on their relative importance in a way that total weight remains 100.
 Step 3: Compare requirements
 The person performing triage (requirements comparison) does not need to worry about relative weights and normalizations. The normalization can be done automatically by the tool used (e.g. an excel sheet) after the points have been assigned against each requirement.
 Requirements selection can be done in two steps:
