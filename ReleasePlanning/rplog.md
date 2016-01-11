@@ -1,11 +1,10 @@
-Week 46: Initial research was done on release planning and elicited requirements were analyzed.
+WEEK 46: Initial research was done on release planning and elicited requirements were analyzed.
 
-Week 47: Started commenting on the issues for clarification.
+WEEK 47: Started commenting on the issues for clarification.
 
 Issue #5: Manage and conduct a course
 
 Comment: Is the course administrator for adding participants into the course?
-
 Reply: answered in other issues -- please search for, link it, and clarify why it is relevant to this requirement.
 
 Issue #52 View/Add messages
