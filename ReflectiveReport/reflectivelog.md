@@ -17,11 +17,11 @@ Identifying the importance of the requirements from “A Method for Early Requir
 
 Execution:
 
-1.	Placement of requirements into four abstraction levels.
+--Placement of requirements into four abstraction levels.
 
 I have selected online application store as the system. Some of the requirements are identified and placed into four abstraction levels. Most of the identified requirements will be from my experience with the release planning and my previous projects.
 
-2. Identifying priority of requirements by assigning weights. 
+--Identifying priority of requirements by assigning weights. 
 
 Proof of Concept:
 
