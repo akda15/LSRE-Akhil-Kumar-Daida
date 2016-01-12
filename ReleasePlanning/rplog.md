@@ -27,6 +27,7 @@ Comment: Which layout is preferable for arrangement of these components?
 Reply: There should be a default layout, that the teacher may change for a course, and that the students may change for themselves. Add the requirements for this.
 
 WEEk 48: Effort estimation method for requirements was discussed in the course discussion forum
+
 Done research on few effort estimation methods and due to the experience of planning poker in my previous projects, i have gone ahead and made the comment "I have used planning poker previously and i think it is as good as expert opinion for effort estimation." 
 
 WEEk 49: Started linking elicited requirements
