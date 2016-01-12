@@ -21,11 +21,11 @@ Execution:
 
 I have selected online application store as the system. Some of the requirements are identified and placed into four abstraction levels. Most of the identified requirements will be from my experience with the release planning and my previous projects.
 
-2.	Identifying priority of requirements by assigning weights. 
+2. Identifying priority of requirements by assigning weights. 
 
 Proof of Concept:
 
-1.	Placement of requirements into four abstraction levels.
+I)	Placement of requirements into four abstraction levels.
 
 Step 1 Specify
 
@@ -141,7 +141,7 @@ Step 3 Abstraction (work up)
 
 This third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Next step is to prioritize the requirements. 
 
-2.	A Method for Early Requirements Triage and selection Utilizing Product Strategies
+II)	A Method for Early Requirements Triage and selection Utilizing Product Strategies
 
 In order to explicitly state the goals and objectives of a product, it is important to specify the directions of movement for the product deduced from the organization’s mission statement. Thus it is important to answer the three strategic questions Where we want to go?, (2) How to get there?, (3) What will be done?) for each product. The output of this step is an explicit understanding of goals and objectives associated with a specific product which can be used to perform requirements triage and selection for individual products. As the system is targeted for customers who are more inclined towards purchasing popular applications, Popular deals page requirement is selected for method 
 
