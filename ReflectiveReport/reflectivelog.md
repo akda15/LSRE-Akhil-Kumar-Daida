@@ -1,8 +1,8 @@
-Reflective Report
 
 Reflective Report
 
 Selected articles: 
+
 1.	Gorschek & Wohlin “Requirements Abstraction Model”
 
 2.	Khurum & Gorschek “A method for early requirements triage and selection utilizing product strategies”
@@ -53,7 +53,7 @@ RQ 3: Selected category page
 
 Description: The system should be able to display applications in the selected category
 
-Reason/Benefit/Rationale: For finding the application customers are looking to purchase/download. 
+Reason/Benefit/Rationale: finding the application for which customers are looking to purchase/download. 
 
 BENEFIT: Finding the application will be simpler.
 
@@ -67,7 +67,6 @@ Reason/Benefit/Rationale: For concluding the purchase.
 
 BENEFIT: The customer can finish the purchase and immediately start downloading the application.
 
-Restrictions/Risks: Customer.
 
 RQ 5 Adding applications into cart
 
@@ -137,6 +136,7 @@ Reason/Benefit/Rationale:  Payments can be made through mobile phones
 BENEFIT: Secured transactions can be made by customer.
 
 Restrictions/Risks: Connectivity problems might occur as the authorizing device is mobile phone.
+
 Step 3 Abstraction (work up)
 
 This third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Next step is to prioritize the requirements. 
@@ -151,15 +151,15 @@ How to get there? Can be answered by assigning weights to the European market (2
 
 What will be done? Can be answered by assigning weights to the Application promotion (60), distribution (20), Service (20)
 
-The normalization of the data is done and the popular deals page requirement is prioritized by the comparing normalization value with other requirements.
+The normalization of the data is done and the popular deals page requirement is prioritized by the comparing normalization values of other requirements.
 
 Lessons Learned:
 
-I was unable to execute the method perfectly as discussed in the articles as most of the requirements considered for the system are of basic level. After the execution of the methods I have found that more research on requirement prioritization techniques is required.
+I was unable to execute the method as discussed in the articles because most of the requirements considered for the system are of basic level. After the execution of the methods I have found that more research on requirement prioritization techniques is required.
 
 Reflections:
 
 Through my experience with the method in article 1, I have implemented the RAM method which is to abstract, break down the requirements as needed and offering requirements on several levels of abstraction reflecting my requirements of the project. 
 
-Through my experience with the method in article 2, I have implemented the method and dealt with the requirements continuously, performing early triage of requirements, selecting the ones aligned with a specific product’s strategy. Inappropriate requirements are not considered, without expending resources for the triage activity as the process has to handle other requirements.
+Through my experience with the method in article 2, I have implemented the method and dealt with the requirements continuously, performing early triage of requirements, selecting the ones aligned with a specific product’s strategy. Inappropriate requirements are not considered to avoid expending resources for the triage activity as the process has to handle other requirements.
 
